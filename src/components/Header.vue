@@ -6,4 +6,9 @@
   </header>
 </template>
 
-<style scoped></style>
+<style scoped>
+header {
+  color: #ccd6d9;
+  margin-bottom: 25px;
+}
+</style>
